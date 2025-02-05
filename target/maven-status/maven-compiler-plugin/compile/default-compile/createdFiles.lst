@@ -1,0 +1,6 @@
+com\example\restservice\RestServiceApplication.class
+com\example\restservice\UserController.class
+com\example\restservice\AuthController.class
+com\example\restservice\User.class
+com\example\restservice\SecurityConfig.class
+com\example\restservice\UserRepository.class
